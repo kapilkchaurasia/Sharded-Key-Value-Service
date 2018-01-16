@@ -13,5 +13,5 @@ and between different clients.
 
 This architecture is patterned at a high level on a number of systems: BigTable, Spanner, Apache HBase and many others.
 
-The Above was the part of LAB assignment for class ##MIT 6.824 - Distributed Systems - Spring 2015
+The above was the part of lab assignment for class ##MIT 6.824 - Distributed Systems - Spring 2015
 https://pdos.csail.mit.edu/archive/6.824-2013/labs/lab-4.html
