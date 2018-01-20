@@ -2,7 +2,7 @@
 A key/value storage system that "shards" or partitions the keys over a set of replica groups.
 - Characteristic:
   - Master-Slave Architecture 
-  - Fault tolerant( In term of slave by using Paxos protocol for replication set)
+  - Fault tolerant( Raft protocol for replication set)
   - Horizontal scalable
   
 Sharded key/value store will have two main components. First, a set of "Replica Groups". 
